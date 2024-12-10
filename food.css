@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+li{
+    display: inline;
+}
+.one{
+    margin-top: 30px;
+    margin-left: 100px;
+    border-color: black;
+    border-width: 2px;
+    border-style:solid ;
+    display: inline-block;
+    text-align: center;
+
+}
+.we{
+    background-color: black;
+    color: white;
+    display: inline-block;
+    height: 2px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+.two{
+    margin-top: 30px;
+    margin-left: 40px;
+    border-color: black;
+    border-width: 2px;
+    border-style:solid ;
+    display: inline-block;
+    text-align: center;
+
+}
+
+.ye{
+    background-color: black;
+    color: white;
+    display: inline-block;
+    height: 2px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+.three{
+    margin-top: 30px;
+    margin-left: 40px;
+    border-color: black;
+    border-width: 2px;
+    border-style:solid ;
+    display: inline-block;
+    text-align: center;
+
+}
+
+.oe{
+    background-color: black;
+    color: white;
+    display: inline-block;
+    height: 2px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+.four{
+    margin-top: 30px;
+    margin-left: 40px;
+    border-color: black;
+    border-width: 2px;
+    border-style:solid ;
+    display: inline-block;
+    text-align: center;
+
+}
+
+.de{
+    background-color: black;
+    color: white;
+    display: inline-block;
+    height: 2px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+.contact{
+    background-color: black;
+    color: white;
+    height: 180px;
+}
+.send{
+    background-color: yellow;
+    color: black;
+    display: inline-block;
+    height: 22px;
+    width: 40%;
+    cursor: pointer;
+    margin-top: 5px;
+}
+.arc{
+    background-color: black;
+    width: 40%;
+    height: 20%;
+}
